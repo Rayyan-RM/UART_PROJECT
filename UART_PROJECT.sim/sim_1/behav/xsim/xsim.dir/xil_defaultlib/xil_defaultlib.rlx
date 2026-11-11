@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sim_1/new/top_tb.vhd,1794381635,vhdl,,,,tb_uart_top,,,,,,,,
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/ip/axis_data_fifo_0/sim/axis_data_fifo_0.v,1794383775,verilog,C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_top.vhd,,,axis_data_fifo_0,,,../../../../UART_PROJECT.ip_user_files/ipstatic/hdl,,,,,
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_RX.vhd,1794380758,vhdl,C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_top.vhd,,,uart_rx,,,,,,,,
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_TX.vhd,1794343508,vhdl,C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_top.vhd,,,uart_tx,,,,,,,,
+C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sources_1/new/uart_top.vhd,1794384012,vhdl,C:/Vivado_Files/UART_PROJECT/UART_PROJECT.srcs/sim_1/new/top_tb.vhd,,,uart_top,,,,,,,,
